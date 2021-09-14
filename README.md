@@ -20,6 +20,10 @@ Reviews related to the tech companies were collected from Twitter. The hashtag m
 Online social networks have developed as new platforms that allow people to share their views and perspectives on different issues and subjects with their friends, family, and other users. Companies have started to analyse reviews and post on social media (related to their products) to get a sentiment for their product (becky, 2021).
 Sentiment analysis is a form of Natural Language Processing that identifies and quantifies text data, emotional states, and personal information of the topics. Applying machine learning algorithms used to be more common. Nowadays, Deep Learning methods achieve better accuracy on most NLP tasks than other methods. 
 
+**Keywords**
+
+Deep learning, Sentiment Analysis, Twitter Sentiment Analysis, natural language processing (NLP), text mining, BERT
+
 **Research objectives and question** 
 
 The main objective of this thesis is to design and develop a pre-trained deep learning algorithm on two different datasets that can classify people's opinions and sentiments based on the textual information they post on social media.
@@ -36,10 +40,10 @@ The main objective of this thesis is to design and develop a pre-trained deep le
 • How can deep learning models be used to detect positive, natural, or negative from the Textual data?
 
 **Results:**  Applied transformer deep learning algorithm (BERT) in two different datasets. The algorithm is evaluated concerning the metrics, namely accuracy, F1 score, recall, and compared with the outcomes of previous studies. BERT algorithm in the deep learning model is best suited for sentiment analysis on Twitter datasets.
+
 **Method:**  The method chosen to address the research question and objectives is an experiment. Through which the identified algorithms are evaluated with the selected metrics. 
+
 **Conclusion:**  This research aims to design the transformer deep learning algorithms for sentiment analysis on Twitter datasets. Pre-trained BERT model results of having an accuracy of 99% and F1 of 99.2% for first datasets and - an accuracy of 96% and F1 of 97% for the second dataset. It is proved by comparison with past studies that used the same datasets (on different models), BERT model gained the highest accuracy and F1 score, compared to other machine learning and deep learning models from previous studies.
 
-**Keywords**
 
-Deep learning, Sentiment Analysis, Twitter Sentiment Analysis, natural language processing (NLP), text mining, BERT
 
