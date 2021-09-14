@@ -34,21 +34,6 @@ The main objective of this thesis is to design and develop a pre-trained deep le
 
 **Question** 
 • How can deep learning models be used to detect positive, natural, or negative from the Textual data?
-![Uploading image.png…]()
-
-
-The main objective of this thesis is to design and develop a pre-trained deep learning algorithm on two different datasets that can classify people's opinions and sentiments based on the textual information they post on social media.
-
-**Objectives:** 
-• To prepare Twitter to review text data for classification by applying preprocessing methods. 
-• To convert the text and aspects terms into tokens by the corresponding tokeniser.
-• To use a pre-trained embedding in a deep learning algorithm.
-• T develop the BERT model (by applying the two different Twitter datasets).
-• To analyse, compare, and report the results of the pre-trained BERT classification based on performance metrics such as Accuracy and F1- score.
-• To compare the results with the previous studies.
-
-**Question** 
-• How can deep learning models be used to detect positive, natural, or negative from the Textual data?
 
 **Results:**  Applied transformer deep learning algorithm (BERT) in two different datasets. The algorithm is evaluated concerning the metrics, namely accuracy, F1 score, recall, and compared with the outcomes of previous studies. BERT algorithm in the deep learning model is best suited for sentiment analysis on Twitter datasets.
 **Method:**  The method chosen to address the research question and objectives is an experiment. Through which the identified algorithms are evaluated with the selected metrics. 
