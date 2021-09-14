@@ -3,7 +3,7 @@
 Masters Dissertation solution for MSc Data Science. This solution is a Python based deep learning algorithms.
 
 
-**Data Description
+**Data Description**
 
 Twitter is a social networking and real-time microblogging service. Messages posted by Twitter users are called tweets and restricted to a length of 140 characters. Usually, tweets can be considered informal to contain colloquial language, emoticons, and numerous spelling errors. Another characteristic of Twitter is the use of hashtags to refer to specific topics.
 
@@ -15,14 +15,45 @@ Reviews related to the tech companies were collected from Twitter. The hashtag m
 
 
 
-**Abstract **
+**Abstract** 
 
 Online social networks have developed as new platforms that allow people to share their views and perspectives on different issues and subjects with their friends, family, and other users. Companies have started to analyse reviews and post on social media (related to their products) to get a sentiment for their product (becky, 2021).
 Sentiment analysis is a form of Natural Language Processing that identifies and quantifies text data, emotional states, and personal information of the topics. Applying machine learning algorithms used to be more common. Nowadays, Deep Learning methods achieve better accuracy on most NLP tasks than other methods. 
 
-Results: Applied transformer deep learning algorithm (BERT) in two different datasets. The algorithm is evaluated concerning the metrics, namely accuracy, F1 score, recall, and compared with the outcomes of previous studies. BERT algorithm in the deep learning model is best suited for sentiment analysis on Twitter datasets.
-Method: The method chosen to address the research question and objectives is an experiment. Through which the identified algorithms are evaluated with the selected metrics. 
-Conclusion: This research aims to design the transformer deep learning algorithms for sentiment analysis on Twitter datasets. Pre-trained BERT model results of having an accuracy of 99% and F1 of 99.2% for first datasets and - an accuracy of 96% and F1 of 97% for the second dataset. It is proved by comparison with past studies that used the same datasets (on different models), BERT model gained the highest accuracy and F1 score, compared to other machine learning and deep learning models from previous studies.
+**Research objectives and question** 
+
+The main objective of this thesis is to design and develop a pre-trained deep learning algorithm on two different datasets that can classify people's opinions and sentiments based on the textual information they post on social media.
+
+**Objectives:** 
+• To prepare Twitter to review text data for classification by applying preprocessing methods. 
+• To convert the text and aspects terms into tokens by the corresponding tokeniser.
+• To use a pre-trained embedding in a deep learning algorithm.
+• T develop the BERT model (by applying the two different Twitter datasets).
+• To analyse, compare, and report the results of the pre-trained BERT classification based on performance metrics such as Accuracy and F1- score.
+• To compare the results with the previous studies.
+
+**Question** 
+• How can deep learning models be used to detect positive, natural, or negative from the Textual data?
+![Uploading image.png…]()
+
+
+The main objective of this thesis is to design and develop a pre-trained deep learning algorithm on two different datasets that can classify people's opinions and sentiments based on the textual information they post on social media.
+
+**Objectives:** 
+• To prepare Twitter to review text data for classification by applying preprocessing methods. 
+• To convert the text and aspects terms into tokens by the corresponding tokeniser.
+• To use a pre-trained embedding in a deep learning algorithm.
+• T develop the BERT model (by applying the two different Twitter datasets).
+• To analyse, compare, and report the results of the pre-trained BERT classification based on performance metrics such as Accuracy and F1- score.
+• To compare the results with the previous studies.
+
+**Question** 
+• How can deep learning models be used to detect positive, natural, or negative from the Textual data?
+![image](https://user-images.githubusercontent.com/70370900/133235571-e46fb527-a12d-44bb-a0d3-8706d5f6aec8.png)
+
+**Results:**  Applied transformer deep learning algorithm (BERT) in two different datasets. The algorithm is evaluated concerning the metrics, namely accuracy, F1 score, recall, and compared with the outcomes of previous studies. BERT algorithm in the deep learning model is best suited for sentiment analysis on Twitter datasets.
+**Method:**  The method chosen to address the research question and objectives is an experiment. Through which the identified algorithms are evaluated with the selected metrics. 
+**Conclusion:**  This research aims to design the transformer deep learning algorithms for sentiment analysis on Twitter datasets. Pre-trained BERT model results of having an accuracy of 99% and F1 of 99.2% for first datasets and - an accuracy of 96% and F1 of 97% for the second dataset. It is proved by comparison with past studies that used the same datasets (on different models), BERT model gained the highest accuracy and F1 score, compared to other machine learning and deep learning models from previous studies.
 
 **Keywords**
 
